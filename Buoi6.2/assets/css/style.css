@@ -24,12 +24,12 @@
 .content-mess{
     position: absolute;
     right:  0;
-    /* bottom: -600px; */
+    bottom: -600px;
     width: 400px;
     height: 550px;
     background-color: blue;
     border-radius: 5px;
-    bottom: 120px;
+    /* bottom: 120px; */
     transition: bottom .2s;
 
 }
